@@ -18,13 +18,13 @@ public class Main {
         }
         return palin.equalsIgnoreCase(lap);
     }
-    public static String removal(String pal) {
+    public static String removal(String palin) {
         String newPalin = "";
-        for (int i = 0; i < pal.length(); i++) {
-            if ((pal.charAt(i) == ' ') || (pal.charAt(i) == '.') ||(pal.charAt(i) == ',') || (pal.charAt(i) == '?') || (pal.charAt(i) == '!') || (pal.charAt(i) == ':') || (pal.charAt(i) == ';')) {
+        for (int i = 0; i < palin.length(); i++) {
+            if ((palin.charAt(i) == ' ') || (palin.charAt(i) == '.') ||(palin.charAt(i) == ',') || (palin.charAt(i) == '?') || (pal.charAt(i) == '!') || (pal.charAt(i) == ':') || (pal.charAt(i) == ';')) {
                 newPalin = newPalin;
             }
-            else newPalin += pal.charAt(i);
+            else newPalin += palin.charAt(i);
         }
         return newPalin;
     }
