@@ -21,7 +21,7 @@ public class Main {
     public static String removal(String palin) {
         String newPalin = "";
         for (int i = 0; i < palin.length(); i++) {
-            if ((palin.charAt(i) == ' ') || (palin.charAt(i) == '.') ||(palin.charAt(i) == ',') || (palin.charAt(i) == '?') || (pal.charAt(i) == '!') || (pal.charAt(i) == ':') || (pal.charAt(i) == ';')) {
+            if ((palin.charAt(i) == ' ') || (palin.charAt(i) == '.') ||(palin.charAt(i) == ',') || (palin.charAt(i) == '?') || (palin.charAt(i) == '!') || (palin.charAt(i) == ':') || (palin.charAt(i) == ';')) {
                 newPalin = newPalin;
             }
             else newPalin += palin.charAt(i);
