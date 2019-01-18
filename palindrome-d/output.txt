@@ -1,0 +1,21 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=56003:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/saipatel/IdeaProjects/Palindrome/out/production/Palindrome Main
+
+"Palindrome" is not a valid palindrome.
+
+"Civic" is a valid palindrome.
+
+"Radar" is a valid palindrome.
+
+"Level" is a valid palindrome.
+
+"Eva, can I stab bats in a cave?" is a valid palindrome.
+
+"A man, a plan, a canal, Panama" is a valid palindrome.
+
+"Mr. Owl ate my metal worm" is a valid palindrome.
+
+"Never odd or even" is a valid palindrome.
+
+"Doc, Note: I Dissent. A fast never prevents a fatness. I diet on cod." is a valid palindrome.
+
+Process finished with exit code 0
