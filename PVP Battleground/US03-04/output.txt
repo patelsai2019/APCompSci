@@ -1,0 +1,40 @@
+"C:\Program Files\Java\jdk-10.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3\lib\idea_rt.jar=54189:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\dougw\OneDrive\Code Repo\IntelliJ IDEA\PVP Battleground\out\production\Part 03" Main
+A new PlayerCharacter!
+A new Fighter has been created!
+Sentri, a Fighter:
+ HP:  60/ 60
+ MP:   0/  0
+STR:  18
+INT:  10
+AGI:  10
+CON:  12
+A new PlayerCharacter!
+A new Mage has been created!
+Jaana, a Mage:
+ HP:  12/ 12
+ MP:  44/ 44
+STR:  12
+INT:  16
+AGI:  14
+WIS:  14
+A new PlayerCharacter!
+A new Paladin has been created!
+Dupre, a Paladin:
+ HP:  42/ 42
+ MP:  44/ 44
+STR:  12
+INT:  16
+AGI:  11
+WIS:  12
+CON:  16
+A new PlayerCharacter!
+A new Paladin has been created!
+Antos, a Priest:
+ HP:   8/  8
+ MP:  50/ 50
+STR:   8
+INT:  18
+AGI:  11
+CHA:  16
+
+Process finished with exit code 0
