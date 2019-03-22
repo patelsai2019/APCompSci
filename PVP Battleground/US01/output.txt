@@ -1,0 +1,8 @@
+"C:\Program Files\Java\jdk-10.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3\lib\idea_rt.jar=61218:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\dougw\OneDrive\Code Repo\IntelliJ IDEA\PVP Battleground\out\production\Part 01" Main
+A new Fighter has been created!
+Sentri, a Fighter:
+STR:  19  INT:   9  AGI:  12  CON:  14
+ HP:  66/ 66
+ MP:   0/  0
+
+Process finished with exit code 0
